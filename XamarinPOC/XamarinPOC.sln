@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamarinPOC", "XamarinPOC\XamarinPOC.csproj", "{B4B0DAE7-D255-4747-8C97-3B0BF21BB75B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamarinPOC.Droid", "Droid\XamarinPOC.Droid.csproj", "{FDE6F240-A493-4843-8D38-045074DE19EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamarinPOC.UITests", "UITests\XamarinPOC.UITests.csproj", "{BFD1F603-2643-454D-B798-EE94755B4494}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4B0DAE7-D255-4747-8C97-3B0BF21BB75B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4B0DAE7-D255-4747-8C97-3B0BF21BB75B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4B0DAE7-D255-4747-8C97-3B0BF21BB75B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4B0DAE7-D255-4747-8C97-3B0BF21BB75B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFD1F603-2643-454D-B798-EE94755B4494}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFD1F603-2643-454D-B798-EE94755B4494}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFD1F603-2643-454D-B798-EE94755B4494}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFD1F603-2643-454D-B798-EE94755B4494}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDE6F240-A493-4843-8D38-045074DE19EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDE6F240-A493-4843-8D38-045074DE19EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDE6F240-A493-4843-8D38-045074DE19EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDE6F240-A493-4843-8D38-045074DE19EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
