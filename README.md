@@ -1,2 +1,6 @@
 # xamarin-poc
-POC of Xamarin
+Optimus Social App POC on Xamarin
+- Home Page
+- News
+- Contact Us
+- Blog
